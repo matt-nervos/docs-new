@@ -822,7 +822,7 @@ A private key, also known as a secret key, is a variable in cryptography, known 
 
 ### Proof of Work
 
-PoW asks users to solve a cryptographic puzzle to prove ownershipo of a certain amount of computational resource to participate in the consensus. In general PoW is a more permissionless consensus mechanism than PoS. 
+PoW asks users to solve a cryptographic puzzle to prove ownership of a certain amount of computational resource to participate in the consensus. In general PoW is a more permissionless consensus mechanism than PoS. 
 
 In contrast to wildly spread misconception, PoW is not a "waste" of energy and does not induce more carbon emission. PoW is used in the Nervos layer 1 blockchain CKB.
 
